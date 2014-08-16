@@ -2,7 +2,7 @@
   "name": "troth",
   "version": "0.0.1",
   "description": "A basic implementation complying with the Promises/A+ spec",
-  "author": "Graeme McCutcheon <graeme@graememcc.co.uk>",
+  "author": "Graeme McCutcheon <graeme@graememcc.co.uk> (http://www.graememcc.co.uk)",
   
   "scripts": {
     "test": "promises-aplus-tests test/test_adapter.js"
